@@ -2,7 +2,7 @@
 Throttle wrapper function.
 
 ## Install
-```
+```sh
 npm install waitthrottle
 ```
 
