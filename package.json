@@ -2,12 +2,12 @@
   "name": "waitthrottle",
   "version": "1.0.3",
   "description": "Throttle wrapper function",
-  "main": "throttle.js",
-  "scripts": {},
   "keywords": [
     "wait",
-    "throttle"
+    "throttle",
+    "javascript"
   ],
+  "main": "throttle.js",
   "author": "Andrey Skorchenko <andreyskorchenko@gmail.com>",
   "license": "ISC",
   "repository": {
